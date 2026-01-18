@@ -124,11 +124,4 @@ This dashboard enables:
 * Text analytics on ticket remarks using NLP
 * SLA breach tracking and alerting
 
----
 
-## 👤 Author
-
-**Aayush Yadav**
-Aspiring Data Analyst | Excel | SQL | Data Analytics
-
-📌 *This project is created for learning, portfolio, and analytical demonstration purposes.*
